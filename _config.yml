@@ -20,10 +20,14 @@
 
 title: NonFudgery
 
-description: >- # this means to ignore newlines until "baseurl:"
-  Coming Soon!
+
+#description: >- # this means to ignore newlines until "baseurl:"
+  #Coming Soon!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
+#linkedin_username: jessefitzgibbon
+instagram_username: nonfudgery
+
 
 
 # Build settings
@@ -31,6 +35,15 @@ theme: minima
 plugins:
   - jekyll-feed
 
+
+#this doesn't work  
+navigation:
+- title: Home
+  url: '/'
+- title: About
+  url: '/about/'
+- title: Platform
+  url: '/docs/admin'
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
