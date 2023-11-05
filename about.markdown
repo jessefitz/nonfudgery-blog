@@ -4,15 +4,12 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+# NonFudgery: Pioneering AI's Responsible Use in Education
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+At NonFudgery, our commitment is to pave the way for responsible AI use in education. We believe in the potential of artificial intelligence to enrich learning experiences, fostering not just academic success but also ethical engagement with technology.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+## A Sneak Peek Into The Future
 
+Stay tuned for our upcoming release - a dedicated platform that promises to evolve the intersection of AI and education. Without revealing too much, prepare for an experience that will empower both educators and learners to navigate the exciting realm of AI with confidence and a sense of responsibility.
 
-[jekyll-organization]: https://github.com/jekyll
+**Join us on this journey of discovery with NonFudgery, where AI meets accountability and innovation thrives.**

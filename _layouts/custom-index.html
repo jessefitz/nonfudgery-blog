@@ -1,0 +1,32 @@
+---
+layout: page
+---
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ page.title | default: site.title | escape }}</title>
+    <link rel="stylesheet" href="{{ '/assets/css/site.css' | relative_url }}">
+    <!-- Any other head content like favicon, etc. -->
+</head>
+
+<body>
+
+    <section class="hero bg-white text-dark text-center py-5">
+        <img src="{{ '/images/nonfudgery.png' | prepend: site.baseurl }}" alt="NonFudgery Logo" class="img-fluid mb-4" style="max-width: 15%;" />
+        <h2 class="section-title">Welcome to NonFudgery</h2>
+        <p class="text-justify">
+            <!-- Content description will be provided by page content -->
+        </p>
+
+        {{ content }}
+    </section>
+
+    <!-- Include footer or other layout components here -->
+    <!-- Optional: Include your JavaScript files at the end of the body -->
+
+</body>
+
+</html>

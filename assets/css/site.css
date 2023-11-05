@@ -1,0 +1,103 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+
+#suggestedPromptBtn:focus {
+    outline: none;
+    box-shadow: none;
+}
+
+.section-title {
+    margin-top: 20px;
+    border-bottom: 2px solid #007bff;
+    display: inline-block;
+    padding-bottom: 5px;
+}
+
+.attributes-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 10px;
+    margin-bottom: 30px; /* added some margin for separation */
+}
+
+.attribute-tile {
+    padding: 10px;
+    border: 1px solid #ccc;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+    .attribute-tile.selected {
+        background-color: #007bff;
+        color: #fff;
+    }
+
+.custom-question-section {
+    padding: 15px;
+    border: 2px solid #ccc;
+    background-color: #f7f7f7; /* light gray to differentiate */
+}
+
+#customQuestion {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    resize: vertical; /* allows vertical resizing, but not horizontal */
+}
+
+#toggleStarterQuestions {
+    cursor: pointer;
+    margin-left: 10px;
+}
+
+.section-title i {
+    cursor: pointer;
+    margin-left: 10px;
+}
+
+.toggle-content-wrapper {
+    display: block; /* Initially shown */
+}
+
+
+.student-work {
+    border: 1px solid #e0e0e0;
+    padding: 10px;
+    background-color: #f9f9f9;
+}
+
+.clearfix::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+
+/* Style for the selected row */
+.selected-row {
+    background-color: #e9ecef; /* You can choose any color you prefer */
+}
+/* Hover style for table rows */
+#classesTable tbody tr:hover {
+    cursor: pointer; /* Indicates a clickable row */
+    background-color: #f8f9fa; /* Slightly lighter color on hover */
+}
