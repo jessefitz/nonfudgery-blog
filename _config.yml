@@ -42,8 +42,6 @@ navigation:
   url: '/'
 - title: About
   url: '/about/'
-- title: Platform
-  url: '/docs/admin'
 - title: Blog
   url: '/blog_listing/'
 
