@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Laying the Foundation"
+date:   2023-11-06 04:44:45 -0500
+categories: Building
+---
+
+We're excited to share that NonFudgery is now up and running in its early form, a result of many late nights and long weekends spent brainstorming and keyboard pounding. We're busy polishing our guides and mission overview to ensure a seamless user experience for those we invite to participate in our early testing rounds. We're looking forward to inviting you to join us on this journey, explore the platform, and provide the crucial feedback we need to refine NonFudgery's future capabilities. Your insights are invaluable as we work together to enhance and expand our service. Stay connected for more updates and join us in shaping NonFudgery's path forward.
