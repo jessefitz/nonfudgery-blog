@@ -1,3 +1,13 @@
-# Platform
+---
+layout: default
+title: Blog
+---
 
-Soon we'll be releasing more information about how to engage with the NonFundgery platform.  Watch our Instagram for updates!
+<ul>
+{% for post in site.posts %}
+  <li>
+    <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+    <p>{{ post.excerpt }}</p>
+  </li>
+{% endfor %}
+</ul>
