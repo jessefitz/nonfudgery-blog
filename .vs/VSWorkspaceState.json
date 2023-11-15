@@ -3,9 +3,10 @@
     "",
     "\\assets",
     "\\assets\\css",
-    "\\docs",
-    "\\_layouts"
+    "\\images",
+    "\\_layouts",
+    "\\_posts"
   ],
-  "SelectedNode": "\\about.markdown",
+  "SelectedNode": "\\images",
   "PreviewInSolutionExplorer": false
 }
