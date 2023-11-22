@@ -27,6 +27,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #linkedin_username: jessefitzgibbon
 instagram_username: nonfudgery
+twitter_username: nonfudgery
 
 
 
@@ -42,7 +43,7 @@ navigation:
   url: '/'
 - title: About
   url: '/about/'
-- title: Blog
+- title: Insights
   url: '/blog_listing/'
 
 # Exclude from processing.
