@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Howard County Changemaker Finalist - No Joke!"
+date:   2024-04-01 04:44:45 -0500
+categories: Changemaker
+excerpt: "NonFudgery is officially a finalist in the HoCo Changemaker challenge."
+---
+
+<div style="text-align: center; padding-bottom: 20px;">
+    <img src="/images/changemakerfinalist.png" alt="Howard County Changemaker Challenge Finalist" width="35%" />
+</div>
+
+
+We are thrilled to announce that NonFudgery has been selected as a finalist in the Howard County Changemaker Challenge! This is a huge honor and a much welcome reinforcement of the value we believe this platform will eventually provide. 
+
+We are so grateful for the opportunity to be a part of this incredible initiative and to have the chance to make a positive impact in the Howard County community.

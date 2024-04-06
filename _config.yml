@@ -41,8 +41,6 @@ plugins:
 navigation:
 - title: Home
   url: '/'
-- title: About
-  url: '/about/'
 - title: Insights
   url: '/blog_listing/'
 
@@ -65,3 +63,4 @@ navigation:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+#   - about.markdown 
