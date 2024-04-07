@@ -5,12 +5,25 @@
 layout: custom-index
 ---
 
-NonFudgery is a platform crafted for teachers and students eager to harness the power of AI in the learning journey. Designed to foster collaboration, our platform offers a unique environment where AI acts as a supportive tool, enhancing students' understanding and creativity. Teachers can curate AI-generated prompts tailored to assignments, while students interact with AI for insights, guidance, and peer-like feedback. Dive into DumbFudgery and discover how responsible and ethical AI interaction can transform the educational experience, promoting deeper understanding and genuine innovation.
+NonFudgery is a platform crafted for teachers and students eager to harness the power of AI in the learning journey. Designed to foster collaboration, our platform offers a unique environment where AI:
+
+- Serves as a supportive tool for students, enhancing understanding and creativity. 
+- Empowers educators with the transparency and guidance they need to guide foster a healthy relationship with generative tools and technology. 
 
 ## The Big Idea
-NonFudgery is embarking on an ambitious journey to establish a nonprofit organization dedicated to advancing AI literacy and empowerment in Howard County. Our goal is to invest in the development of a tech-enabled educational platform that bridges the gap between AI technology and classroom learning. We are committed to creating an inclusive environment where educators and students can collaboratively explore and harness the potential of AI. With strategic investments in community engagement, legal and organizational infrastructure, and continuous technological evolution, NonFudgery seeks to lead the way in responsible and innovative AI education
+ 
+<div style="display: flex; align-items: center; margin-bottom: 20px">
+    <img src="/images/changemakergeneral.png" alt="Your Image Description" style="width: 25%; margin-right: 20px;">
+    <div>
+        
+        NonFudgery is embarking on an ambitious journey to establish a nonprofit organization dedicated to advancing AI literacy and empowerment in Howard County.
+        
+        <br/> <br/> Our goal is to invest in the development of a tech-enabled educational platform that bridges the gap between AI technology, the educational journey, and Howard County community needs.
+    </div>
+</div>
 
 
-_Watch our Instagram for updates!_
+_Watch our [Instagram](https://instagram.com/nonfudgery) for updates!_ 
 
-**Join us on this journey of discovery with NonFudgery, where AI meets accountability and innovation thrives.**
+
+**Join us on this journey of discovery with NonFudgery, where the power of AI intersects with community needs accountability and innovation thrives.**
