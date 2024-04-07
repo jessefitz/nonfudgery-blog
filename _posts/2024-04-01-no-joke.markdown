@@ -7,7 +7,7 @@ excerpt: "NonFudgery is officially a finalist in the HoCo Changemaker challenge.
 ---
 
 <div style="text-align: center; padding-bottom: 20px;">
-    <img src="/images/changemakerfinalist.png" alt="Howard County Changemaker Challenge Finalist" width="35%" />
+    <img src="/images/changemakerfinalist1.png" alt="Howard County Changemaker Challenge Finalist" width="35%" />
 </div>
 
 
