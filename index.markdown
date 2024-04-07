@@ -13,7 +13,7 @@ NonFudgery is a platform crafted for teachers and students eager to harness the 
 ## The Big Idea
  
 <div style="display: flex; align-items: center; margin-bottom: 20px">
-    <img src="/images/changemaker.png" alt="Howard County Changemaker Challenge" style="width: 25%; margin-right: 20px;">
+    <img src="/images/change.png" alt="Howard County Changemaker Challenge" style="width: 25%; margin-right: 20px;">
     <div>
         
         NonFudgery is embarking on an ambitious journey to establish a nonprofit organization dedicated to advancing AI literacy and empowerment in Howard County.
