@@ -10,7 +10,7 @@ NonFudgery is a platform crafted for teachers and students eager to harness the 
 - Serves as a supportive tool for students, enhancing understanding and creativity. 
 - Empowers educators with the transparency and guidance they need to guide foster a healthy relationship with generative tools and technology. 
 
-<img src="/images/change.png"> 
+<img src="/images/change1.png"> 
 ## The Big Idea
  
 <div style="display: flex; align-items: center; margin-bottom: 20px">
