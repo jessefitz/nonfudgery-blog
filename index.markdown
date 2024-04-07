@@ -8,7 +8,7 @@ layout: custom-index
 NonFudgery is a platform crafted for teachers and students eager to harness the power of AI in the learning journey. Designed to foster collaboration, our platform offers a unique environment where AI:
 
 - Serves as a supportive tool for students, enhancing understanding and creativity. 
-- Empowers educators with the transparency and guidance they need to guide foster a healthy relationship with generative tools and technology. 
+- Empowers educators with the transparency and guidance they need to foster a healthy relationship with generative tools and technology. 
 
 ## The Big Idea
  
