@@ -22,8 +22,10 @@ NonFudgery is a platform crafted for teachers and students eager to harness the 
     </div>
 </div>
 
+## Stay Connected
+Keep in touch with NonFudgery to stay updated on our progress and upcoming events.
 
-_Watch our [Instagram](https://instagram.com/nonfudgery) for updates!_ 
+- [Join Our Focus Group](/join) to be a part of NonFudgery's journey.
 
+-  Connect on [Instagram](https://instagram.com/nonfudgery)  
 
-**Join us on this journey of discovery with NonFudgery, where the power of AI intersects with community needs accountability and innovation thrives.**

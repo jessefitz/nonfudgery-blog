@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Insights and Updates
+title: -Updates-
 ---
 
 <ul>
