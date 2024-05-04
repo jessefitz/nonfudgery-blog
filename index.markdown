@@ -25,7 +25,9 @@ NonFudgery is a platform crafted for teachers and students eager to harness the 
 ## Stay Connected
 Keep in touch with NonFudgery to stay updated on our progress and upcoming events.
 
-- [Join Our Focus Group](/join) to be a part of NonFudgery's journey.
+- [Join Our Focus Group](/join) to be a part of NonFudgery's journey
+
+- [Register](https://zoom.us/webinar/register/WN_2cocI_EmQGKsOCHUGzn3gQ#/registration) to watch our pitch at the **2024 Changemaker Challenge**
 
 -  Connect on [Instagram](https://instagram.com/nonfudgery)  
 
