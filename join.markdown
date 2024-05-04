@@ -11,7 +11,7 @@ NonFudgery is on the brink of revolutionizing the educational experience with ou
 - Get early access to the NonFudgery app
 - Provide valuable feedback and shape the future of our platform
 - Collaborate with like-minded individuals passionate about education and technology
-- 
+
 If you haven't already, be sure to [sign up](https://zoom.us/webinar/register/WN_2cocI_EmQGKsOCHUGzn3gQ#/registration) for the 2024 Changemaker Challenge to watch our pitch.
 
 <div>
