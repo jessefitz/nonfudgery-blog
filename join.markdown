@@ -7,7 +7,7 @@ title: "-Participate-"
 
 The most immediate think you can do is register, watch and vote for our pitch in the **2024 Changemaker Challenge** on Tuesday, May 7 at 6:00pm.
 
-<div>
+<div style="text-align: center;">
     <a style="display: block; 
               height: 50px; /* Reduced height for a more standard button size */
               width: 200px; /* Reduced width for a more standard button size */
