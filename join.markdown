@@ -9,21 +9,22 @@ The most immediate think you can do is register, watch and vote for our pitch in
 
 <div>
     <a style="display: block; 
-              height: 175px; 
-              width: 350px; 
-              background: #606060; 
+              height: 50px; /* Reduced height for a more standard button size */
+              width: 200px; /* Reduced width for a more standard button size */
+              background: #007BFF; /* A common blue color used for call-to-action buttons */
               color: #ffffff; 
               text-align: center; 
               font-weight: bold; 
-              font-size: 300%; 
-              line-height: 100px; 
+              font-size: 16px; /* Adjusted font size for the smaller button */
+              line-height: 50px; /* Adjusted line-height to vertically center the text */
               font-family: Arial; 
-              border-radius: 20px; 
+              border-radius: 10px; /* Smaller radius for a subtler rounded corner */
               text-decoration: none;
-              margin-top: 20px; /* Added margin at the top */
-              margin-bottom: 20px; /* Added margin at the bottom */"
+              margin-top: 20px; 
+              margin-bottom: 20px;"
         href="https://zoom.us/webinar/register/WN_2cocI_EmQGKsOCHUGzn3gQ#/registration">Register!</a>
 </div>
+
 
 ## Participate in Focus Groups
 
