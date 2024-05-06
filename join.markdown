@@ -8,7 +8,21 @@ title: "-Participate-"
 The most immediate think you can do is register, watch and vote for our pitch in the **2024 Changemaker Challenge** on Tuesday, May 7 at 6:00pm.
 
 <div>
-<a style="display: block; height: 100px; width: 500px; background: #606060; color: #ffffff; text-align: center; font-weight: bold; font-size: 300%; line-height: 100px; font-family: Arial; border-radius: 20px; text-decoration: none;" href="https://zoom.us/webinar/register/WN_2cocI_EmQGKsOCHUGzn3gQ#/registration">Register for the live pitch event!</a>
+    <a style="display: block; 
+              height: 120px; /* Increased height to allow padding */
+              width: 500px; 
+              background: #606060; 
+              color: #ffffff; 
+              text-align: center; 
+              font-weight: bold; 
+              font-size: 24px; /* Adjusted font size for better text fitting */
+              line-height: 120px; /* Adjusted line-height to match new height */
+              font-family: Arial; 
+              border-radius: 20px; 
+              text-decoration: none;
+              padding-top: 10px; /* Added padding at the top */
+              padding-bottom: 10px; /* Added padding at the bottom */"
+        href="https://zoom.us/webinar/register/WN_2cocI_EmQGKsOCHUGzn3gQ#/registration">Register to Watch and Vote!</a>
 </div>
 
 ## Participate in Focus Groups
