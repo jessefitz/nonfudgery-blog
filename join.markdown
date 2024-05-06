@@ -22,7 +22,7 @@ The most immediate think you can do is register, watch and vote for our pitch in
               text-decoration: none;
               margin-top: 20px; /* Added margin at the top */
               margin-bottom: 20px; /* Added margin at the bottom */"
-        href="https://zoom.us/webinar/register/WN_2cocI_EmQGKsOCHUGzn3gQ#/registration">Register for the live pitch event!</a>
+        href="https://zoom.us/webinar/register/WN_2cocI_EmQGKsOCHUGzn3gQ#/registration">Register!</a>
 </div>
 
 ## Participate in Focus Groups
