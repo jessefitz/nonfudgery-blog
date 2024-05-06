@@ -8,7 +8,26 @@ layout: custom-index
 NonFudgery is a platform crafted for teachers and students eager to harness the power of AI in the learning journey. Designed to foster collaboration, our platform offers a unique environment where AI:
 
 - Serves as a supportive tool for students, enhancing understanding and creativity. 
-- Empowers educators with the transparency and guidance they need to foster a healthy relationship with generative tools and technology. 
+- Empowers educators with the transparency and guidance they need to foster a healthy relationship with generative tools and technology.
+
+**Register to watch and vote for our pitch on Tuesday, May 7 at 6:00pm**
+<div>
+    <a style="display: block; 
+              height: 175px; 
+              width: 350px; 
+              background: #606060; 
+              color: #ffffff; 
+              text-align: center; 
+              font-weight: bold; 
+              font-size: 300%; 
+              line-height: 100px; 
+              font-family: Arial; 
+              border-radius: 20px; 
+              text-decoration: none;
+              margin-top: 20px; /* Added margin at the top */
+              margin-bottom: 20px; /* Added margin at the bottom */"
+        href="https://zoom.us/webinar/register/WN_2cocI_EmQGKsOCHUGzn3gQ#/registration">Register!</a>
+</div>
 
 ## The Big Idea
  
