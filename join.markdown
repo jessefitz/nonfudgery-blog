@@ -5,7 +5,7 @@ title: "-Participate-"
 
 # Engage with NonFudgery
 
-The most immediate think you can do is register to watch our pitch in the 2024 Changemaker Challenge on Tuesday, May 7 at 6:00pm.
+The most immediate think you can do is register, watch and vote for our pitch in the **2024 Changemaker Challenge** on Tuesday, May 7 at 6:00pm.
 
 <div>
 <a style="display: block; height: 100px; width: 500px; background: #606060; color: #ffffff; text-align: center; font-weight: bold; font-size: 300%; line-height: 100px; font-family: Arial; border-radius: 20px; text-decoration: none;" href="https://zoom.us/webinar/register/WN_2cocI_EmQGKsOCHUGzn3gQ#/registration">Register for the live pitch event!</a>
