@@ -11,8 +11,8 @@ NonFudgery is a platform crafted for teachers and students eager to harness the 
 - Empowers educators with the transparency and guidance they need to foster a healthy relationship with generative tools and technology.
 
 **Register to watch and vote for our pitch on Tuesday, May 7 at 6:00pm**
-<div>
-    <a style="display: block; 
+<div style="text-align: center;">
+    <a style="display: inline-block; 
               height: 50px; /* Reduced height for a more standard button size */
               width: 200px; /* Reduced width for a more standard button size */
               background: #007BFF; /* A common blue color used for call-to-action buttons */
