@@ -30,6 +30,7 @@ NonFudgery is a platform crafted for teachers and students eager to harness the 
 </div>
 
 
+**Signup to stay in touch or participate in future engagement sessions with NonFudgery**
 <div style="text-align: center;">
     <a style="display: inline-block; 
               height: 50px; /* Reduced height for a more standard button size */
@@ -45,7 +46,7 @@ NonFudgery is a platform crafted for teachers and students eager to harness the 
               text-decoration: none;
               margin-top: 20px; 
               margin-bottom: 20px;"
-        href="https://zoom.us/webinar/register/WN_2cocI_EmQGKsOCHUGzn3gQ#/registration">Register!</a>
+        href="https://forms.gle/sxjMjBJkW8yJeQCP6">Sign Up</a>
 </div>
 
 ## The Big Idea
