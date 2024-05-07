@@ -26,25 +26,6 @@ NonFudgery is a platform crafted for teachers and students eager to harness the 
               text-decoration: none;
               margin-top: 20px; 
               margin-bottom: 20px;"
-        href="/join">Register!</a>
-</div>
-
-
-<div style="text-align: center;">
-    <a style="display: inline-block; 
-              height: 50px; /* Reduced height for a more standard button size */
-              width: 200px; /* Reduced width for a more standard button size */
-              background: #007BFF; /* A common blue color used for call-to-action buttons */
-              color: #ffffff; 
-              text-align: center; 
-              font-weight: bold; 
-              font-size: 16px; /* Adjusted font size for the smaller button */
-              line-height: 50px; /* Adjusted line-height to vertically center the text */
-              font-family: Arial; 
-              border-radius: 10px; /* Smaller radius for a subtler rounded corner */
-              text-decoration: none;
-              margin-top: 20px; 
-              margin-bottom: 20px;"
         href="https://zoom.us/webinar/register/WN_2cocI_EmQGKsOCHUGzn3gQ#/registration">Register!</a>
 </div>
 
